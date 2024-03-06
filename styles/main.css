@@ -33,6 +33,12 @@ h1 {
 }
 
 h2 {
+    font-weight: bold;
+    font-size: 1.8em;
+
+    border-bottom: 0.1em solid #66D7D1;
+
+    text-shadow: 0.02em 0.04em deeppink;
     font-style: italic;
 
     border-bottom: 0.1em solid #1d5956;
@@ -44,6 +50,8 @@ h2 {
 
 section p {
     text-indent: 2.8em;
+    line-height: 1.6em;
+    margin-bottom: 2em;
 }
 
 .project {
